@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python,HTML,CSS,NumPy**
 
-- 📫 How to reach me **choudharyalok75@gmail.com**
+- 📫 My Email **choudharyalok75@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
