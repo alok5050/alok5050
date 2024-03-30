@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi, I'm Alok Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h1>About Me</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok5050&label=Profile%20views&color=0e75b6&style=flat" alt="alok5050" /> </p>
 
@@ -23,6 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok5050&show_icons=true&locale=en" alt="alok5050" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok5050&" alt="alok5050" /></p>
+
 
 
 <!--
